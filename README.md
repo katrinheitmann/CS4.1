@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Validation: Produce a document outlining all data sets and their validation criteria for all available requirements
 
 Summary -- In particular for the galaxy input catalogs, a set of observations and their biases and selection
 effects needs to be assembled for use in validating the simulated catalogs.
